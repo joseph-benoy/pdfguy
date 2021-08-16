@@ -1,0 +1,26 @@
+{
+  "name": "pdfguy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "helmet": "^4.6.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "debug": "^2.6.9",
+    "ts-node": "^10.2.0",
+    "tslint": "^6.1.3"
+  }
+}
